@@ -1,4 +1,4 @@
-# Kintethradamus
+# Foaioti
 ### dedicated areas
 1. **💻 Digital Forensics.**
    - I can talk about topics related to digital investigation.
