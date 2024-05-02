@@ -2,7 +2,7 @@
 ### dedicated areas
 1. **💻 Digital Forensics.**
    - Not available for business nor for any type of commissioned work, but I can talk about topics related to digital investigation.
-   - You can freely report someone to me in my discord server. I will sportively investigate a target (or targets) for fun and even take actions against them if there is any necessity or possibility for such action, you can be notified about new discoveries if you wish.
+   - You can freely report someone to me in my discord server. Investigation is a hobby in my case.
    >I will receive all reports, specially reports related to scam, death threats, cyber terrorism, ideological groups, problematic person.
 2. **🧐 Argument/discussion analysis.**
    - Finding discrepancies and flaws in statements are essential because by understanding what is being talked and written & how is being talked and written will open space for better perspectives and interpretations about what we are absorbing, by voice or text.
