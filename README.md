@@ -5,7 +5,7 @@
 2. **🧐 Argument/discussion analysis.**
    - Finding discrepancies and flaws in statements are essential because by understanding what is being talked and written & how is being talked and written will open space for better perspectives and interpretations about what we are absorbing, by voice or text.
 3. **📖 Writing.**
-   - World building and general knowledge about writing stories, mainly sci-fi + fantasy. Writing is a good way to spend time when you have nothing to do, it stimulates the brain and strenghtens your vocabulary over time.
+   - World building and general knowledge about writing stories, mainly sci-fi + fantasy.
 #
 ### disclaimer
 I am not an authority and I hold no legal power over anyone.
