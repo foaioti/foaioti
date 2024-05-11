@@ -1,7 +1,9 @@
 # Foaioti
 ### dedicated areas
 1. **Digital Forensics.**
-   - I receive reports/alerts, DMs (Discord, Twitter/X open for that).
+   DMs open for reports/alerts.
+
+3. **Storytelling (Sci-fi + fantasy).**
 
 #
 ### disclaimer
